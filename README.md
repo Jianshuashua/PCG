@@ -48,5 +48,5 @@ Quick Brush - Installation Guide (V1.0)
 
 	CN: “极简至上”。如有任何 Bug 或改进建议，欢迎随时通过邮件联系。
 
+### [🚀 Get the Latest Release (v1.0.0)](https://github.com/Jianshuashua/PCG/releases/download/v1.0.0/JianShuaShua.rar)
 
-https://github.com/Jianshuashua/PCG/releases/download/v1.0.0/JianShuaShua.rar
