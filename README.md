@@ -47,3 +47,6 @@ Quick Brush - Installation Guide (V1.0)
 	EN: "Less is supreme." For any bugs or suggestions, please contact me via email.
 
 	CN: “极简至上”。如有任何 Bug 或改进建议，欢迎随时通过邮件联系。
+
+
+https://github.com/Jianshuashua/PCG/releases/download/v1.0.0/JianShuaShua.rar
