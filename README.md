@@ -52,6 +52,7 @@ Quick Brush - Installation Guide (V1.0)
 ### 📺 Product Demonstration (Demo Videos)
 
 
+[![Watch the video](https://img.youtube.com/vi/cUmypxA_54k/0.jpg)](https://www.youtube.com/watch?v=cUmypxA_54k)
 [![Watch the video](https://img.youtube.com/vi/piajC5W0aSE/0.jpg)](https://www.youtube.com/watch?v=piajC5W0aSE)
 [![Watch the video](https://img.youtube.com/vi/jnFZ0hQKQcs/0.jpg)](https://www.youtube.com/watch?v=jnFZ0hQKQcs)
 [![Watch the video](https://img.youtube.com/vi/KbvRJ8zGxmA/0.jpg)](https://www.youtube.com/watch?v=KbvRJ8zGxmA)
