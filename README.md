@@ -62,11 +62,13 @@
 * **EN:** For any bugs, compatibility issues, or suggestions, please contact me.
 * **CN:** 如有任何 Bug、版本兼容性问题或改进建议，欢迎随时联系。
 
-### [🚀 Get the Latest Release (v1.0.0)](https://github.com/Jianshuashua/PCG/releases/download/v1.0.0/JianShuaShua.rar)
+### [🚀 Get the Latest Release (v1.1.0)](https://github.com/Jianshuashua/PCG/releases/download/v1.1.0/JianShuaShua.rar)
 ### 📺 Product Demonstration (Demo Videos)
 
 
 [![Watch the video](https://img.youtube.com/vi/cUmypxA_54k/0.jpg)](https://www.youtube.com/watch?v=cUmypxA_54k)
+[![Watch the video](https://img.youtube.com/vi/wEreF7Prwt8/0.jpg)](https://www.youtube.com/watch?v=wEreF7Prwt8)
+[![Watch the video](https://img.youtube.com/vi/IA8DFZ97d5M/0.jpg)](https://www.youtube.com/watch?v=IA8DFZ97d5M)
 [![Watch the video](https://img.youtube.com/vi/piajC5W0aSE/0.jpg)](https://www.youtube.com/watch?v=piajC5W0aSE)
 [![Watch the video](https://img.youtube.com/vi/jnFZ0hQKQcs/0.jpg)](https://www.youtube.com/watch?v=jnFZ0hQKQcs)
 [![Watch the video](https://img.youtube.com/vi/KbvRJ8zGxmA/0.jpg)](https://www.youtube.com/watch?v=KbvRJ8zGxmA)
